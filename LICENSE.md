@@ -1,3 +1,5 @@
+View the latest EULA here: [https://umnai.com/eula](https://umnai.com/eula)
+
 **Umnai Limited**
 
 **End-User License Agreement (‘EULA’) for Umnai Limited’s Hybrid Intelligence Framework and XNN Platform (‘Platform’)**
