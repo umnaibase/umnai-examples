@@ -1,0 +1,16 @@
+{
+  "config": {
+    "batch_size": null,
+    "estimators": null,
+    "estimators_early_stopping_epochs": null,
+    "estimators_early_stopping_tolerance": null,
+    "estimators_epochs": null,
+    "log_model": null,
+    "producer_run_id": "c7dd18b3e7414ffdb93b71059543d119",
+    "use_data_generators": null,
+    "validation_size": null
+  },
+  "dateset_name": "Dataset_d04c5d23",
+  "run_id": "c9e28047e44d475bbe2d67290b62f51e",
+  "timestamp": 1692205300
+}
