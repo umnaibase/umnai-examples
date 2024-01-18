@@ -1,0 +1,28 @@
+{
+  "batch_size": 512,
+  "estimators": 2,
+  "estimators_early_stopping_epochs": 20,
+  "estimators_early_stopping_tolerance": 0.0001,
+  "estimators_epochs": 10000,
+  "interactions": null,
+  "iterations": 2,
+  "log_model": true,
+  "lr_factor": 0.1,
+  "max_depth": 8,
+  "max_interaction_degree": 2,
+  "max_interactions": 3,
+  "max_polynomial_degree": 2,
+  "max_samples": null,
+  "model_capabilities": {
+    "estimators_data": false
+  },
+  "model_constraints": null,
+  "model_selection_tolerance": 1e-07,
+  "output_activation": null,
+  "trials": 2,
+  "trials_early_stopping_epochs": 5,
+  "trials_early_stopping_tolerance": 0.005,
+  "trials_epochs": 100,
+  "use_data_generators": null,
+  "validation_size": 0.2
+}

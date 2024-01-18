@@ -1,0 +1,16 @@
+{
+  "config": {
+    "batch_size": null,
+    "estimators": null,
+    "estimators_early_stopping_epochs": null,
+    "estimators_early_stopping_tolerance": null,
+    "estimators_epochs": null,
+    "log_model": null,
+    "producer_run_id": "3d01d372820742dea7a9d36ff2ecf6f0",
+    "use_data_generators": null,
+    "validation_size": null
+  },
+  "dateset_name": "Dataset_ccb173b9",
+  "run_id": "c238ae32fe274aefa1919c7e26516445",
+  "timestamp": 1705419721
+}
